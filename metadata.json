@@ -1,0 +1,6 @@
+{
+  "name": "VoterChain",
+  "description": "A decentralized voting platform powered by a simulated blockchain, featuring transparent ballot tracking and cryptographic integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
